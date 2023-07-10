@@ -1,4 +1,6 @@
 ## Link para ver o app (app deployado):
+> Pode demorar um pouco pra carregar, mas é normal
+
 https://networkanalysis-y8iahdbw8a.streamlit.app/
 
 
