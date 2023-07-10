@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="(0, 1)" />
+    <node id="(1, 2)" />
+    <node id="(2, 3)" />
+    <node id="(3, 4)" />
+    <node id="(4, 5)" />
+    <node id="Enter the Anime" />
+    <node id="Dark Forces" />
+    <node id="The App" />
+    <node id="The Open House" />
+    <node id="Kaali Khuhi" />
+    <node id="Drive" />
+    <node id="Leyla Everlasting" />
+    <node id="The Last Days of American Crime" />
+    <node id="Paradox" />
+    <node id="Sardar Ka Grandson" />
+    <node id="Searching for Sheela" />
+    <node id="The Call" />
+    <node id="Whipped" />
+    <node id="All Because of You" />
+    <node id="Mercy" />
+    <node id="After the Raid" />
+    <node id="Ghost Stories" />
+    <node id="The Last Thing He Wanted" />
+    <node id="What Happened to Mr. Cha?" />
+    <node id="Death Note" />
+    <node id="Hello Privilege. It's Me, Chelsea" />
+    <node id="Secret Obsession" />
+    <node id="Sextuplets" />
+    <node id="The Girl on the Train" />
+    <node id="Thunder Force" />
+    <node id="Fatal Affair" />
+    <node id="Just Say Yes" />
+    <node id="Seriously Single" />
+    <node id="The Misadventures of Hedi and Cokeman" />
+    <node id="5 Star Christmas" />
+    <node id="After Maria" />
+    <node id="I Am the Pretty Thing That Lives in the House" />
+    <node id="Paris Is Us" />
+    <node id="Porta dos Fundos: The First Temptation of Christ" />
+    <node id="Rattlesnake" />
+    <node id="The Players" />
+    <node id="We Are One" />
+    <node id="Finding Agnes" />
+    <node id="IO" />
+    <node id="Sentinelle" />
+    <node id="Sol Levante" />
+    <node id="The Binding" />
+    <node id="We Can Be Heroes" />
+    <node id="Christmas Crossfire" />
+    <node id="Coin Heist" />
+    <node id="Mrs. Serial Killer" />
+    <node id="Nobody Sleeps in the Woods Tonight" />
+    <node id="Take the 10" />
+    <node id="The Main Event" />
+    <node id="The Ridiculous 6" />
+    <node id="Earth and Blood" />
+    <node id="Fearless" />
+    <node id="Holiday Rush" />
+    <node id="The Day of the Lord" />
+    <edge source="(2, 3)" target="Enter the Anime" />
+    <edge source="(2, 3)" target="Dark Forces" />
+    <edge source="(2, 3)" target="The App" />
+    <edge source="(3, 4)" target="The Open House" />
+    <edge source="(3, 4)" target="Kaali Khuhi" />
+    <edge source="(3, 4)" target="Drive" />
+    <edge source="(3, 4)" target="Leyla Everlasting" />
+    <edge source="(3, 4)" target="The Last Days of American Crime" />
+    <edge source="(3, 4)" target="Paradox" />
+    <edge source="(4, 5)" target="Sardar Ka Grandson" />
+    <edge source="(4, 5)" target="Searching for Sheela" />
+    <edge source="(4, 5)" target="The Call" />
+    <edge source="(4, 5)" target="Whipped" />
+    <edge source="(4, 5)" target="All Because of You" />
+    <edge source="(4, 5)" target="Mercy" />
+    <edge source="(4, 5)" target="After the Raid" />
+    <edge source="(4, 5)" target="Ghost Stories" />
+    <edge source="(4, 5)" target="The Last Thing He Wanted" />
+    <edge source="(4, 5)" target="What Happened to Mr. Cha?" />
+    <edge source="(4, 5)" target="Death Note" />
+    <edge source="(4, 5)" target="Hello Privilege. It's Me, Chelsea" />
+    <edge source="(4, 5)" target="Secret Obsession" />
+    <edge source="(4, 5)" target="Sextuplets" />
+    <edge source="(4, 5)" target="The Girl on the Train" />
+    <edge source="(4, 5)" target="Thunder Force" />
+    <edge source="(4, 5)" target="Fatal Affair" />
+    <edge source="(4, 5)" target="Just Say Yes" />
+    <edge source="(4, 5)" target="Seriously Single" />
+    <edge source="(4, 5)" target="The Misadventures of Hedi and Cokeman" />
+    <edge source="(4, 5)" target="5 Star Christmas" />
+    <edge source="(4, 5)" target="After Maria" />
+    <edge source="(4, 5)" target="I Am the Pretty Thing That Lives in the House" />
+    <edge source="(4, 5)" target="Paris Is Us" />
+    <edge source="(4, 5)" target="Porta dos Fundos: The First Temptation of Christ" />
+    <edge source="(4, 5)" target="Rattlesnake" />
+    <edge source="(4, 5)" target="The Players" />
+    <edge source="(4, 5)" target="We Are One" />
+    <edge source="(4, 5)" target="Finding Agnes" />
+    <edge source="(4, 5)" target="IO" />
+    <edge source="(4, 5)" target="Sentinelle" />
+    <edge source="(4, 5)" target="Sol Levante" />
+    <edge source="(4, 5)" target="The Binding" />
+    <edge source="(4, 5)" target="We Can Be Heroes" />
+    <edge source="(4, 5)" target="Christmas Crossfire" />
+    <edge source="(4, 5)" target="Coin Heist" />
+    <edge source="(4, 5)" target="Mrs. Serial Killer" />
+    <edge source="(4, 5)" target="Nobody Sleeps in the Woods Tonight" />
+    <edge source="(4, 5)" target="Take the 10" />
+    <edge source="(4, 5)" target="The Main Event" />
+    <edge source="(4, 5)" target="The Ridiculous 6" />
+    <edge source="(4, 5)" target="Earth and Blood" />
+    <edge source="(4, 5)" target="Fearless" />
+    <edge source="(4, 5)" target="Holiday Rush" />
+    <edge source="(4, 5)" target="The Day of the Lord" />
+  </graph>
+</graphml>
