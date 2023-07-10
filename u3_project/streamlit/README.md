@@ -2,7 +2,7 @@
 https://networkanalysis-y8iahdbw8a.streamlit.app/
 
 
-## Build setup (testar localmente)
+## Build setup (testar localmente):
 ```bash
 # python virtual environment
 python3 -m venv env
